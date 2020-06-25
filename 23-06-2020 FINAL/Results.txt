@@ -1,0 +1,7 @@
+Filename: Aadhar-card 4.png AadharNos detected: ['0000 1111 2222', '0000 1111 2222', '0000 1111 2222', '0000 1111 2222']
+Filename: image1.jpg AadharNos detected: []
+Filename: image2.TIF AadharNos detected: ['66035558 6731']
+Filename: Aadhar-Card 1.jpg AadharNos detected: ['8689 2565 8268', '8689 2565 8268', '8689 2565 8268', '8689 2565 8268']
+Filename: image4.jpg AadharNos detected: ['9542 9597 6417', '9542 9597 4437', '9542 9537 5437', '9542 9537 5437', '9549 9537 5437']
+Filename: image3.jpg AadharNos detected: []
+Filename: APP_KYC_ID_ADDR_PROOF_14-02-2020 13_50_24.TIF AadharNos detected: ['6112 3582 5105', '8112 3582 5105', '8112 3582 5105', '8112 3582 5105', '6112 3582 5108', '6112 3582 5108', '6112 3582 5105']
